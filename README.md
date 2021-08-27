@@ -1,2 +1,2 @@
 # Progress_Bar-
-Progress_Bar in C++
+Make Progress Bar in C++
